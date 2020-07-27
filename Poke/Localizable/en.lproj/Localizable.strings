@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  Poke
+
+  Created by Matt on 23/07/2020.
+  Copyright © 2020 mindelicious. All rights reserved.
+*/
+
+
+// DetailViewCongtroller
+
+"experience" = "Experience: %d";
+"height" = "Height: %d";
+"weight" = "Weight: %d";
+"ability" = "Ability:\n %@";
+
+"somethings_go_wrong" = "Something goes wrong try again";
+"reload_data" = "Reload data";
+"cancel" = "Cancel";
+"refresh" = "Refresh";
+"ok" = "Ok";

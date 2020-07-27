@@ -1,0 +1,7 @@
+platform :ios, '13.0'
+target 'Poke' do
+  use_frameworks!
+  pod 'Alamofire', '~> 5.0'
+  pod 'SnapKit', '~> 5.0.0'
+  pod 'Kingfisher'
+end
